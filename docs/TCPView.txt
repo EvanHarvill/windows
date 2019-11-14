@@ -1,0 +1,74 @@
+[System Process]	0	TCP	desktop-3sguno9.ksd.edu	ms-do	ad-it-jake.ksd.edu	25155	TIME_WAIT										
+[System Process]	0	TCP	desktop-3sguno9.ksd.edu	ms-do	desktop-6c1vk8u.ksd.edu	48485	TIME_WAIT										
+[System Process]	0	TCP	desktop-3sguno9.ksd.edu	ms-do	desktop-tuqhqjr.ksd.edu	50524	TIME_WAIT										
+[System Process]	0	TCP	desktop-3sguno9.ksd.edu	ms-do	sv-cowf-b2654c2.ksd.edu	56165	TIME_WAIT										
+[System Process]	0	TCP	desktop-3sguno9.ksd.edu	ms-do	sv-cowf-b2654c2.ksd.edu	56113	TIME_WAIT										
+[System Process]	0	TCP	desktop-3sguno9.ksd.edu	50542	a-0001.a-msedge.net	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-3sguno9.ksd.edu	50545	a-0001.a-msedge.net	https	TIME_WAIT										
+chrome.exe	5444	TCP	desktop-3sguno9.ksd.edu	50265	sea15s12-in-f206.1e100.net	https	ESTABLISHED										
+chrome.exe	5444	TCP	desktop-3sguno9.ksd.edu	50275	sea15s11-in-f14.1e100.net	https	ESTABLISHED										
+chrome.exe	5444	TCP	desktop-3sguno9.ksd.edu	50287	185.199.109.154	https	ESTABLISHED										
+chrome.exe	5444	TCP	desktop-3sguno9.ksd.edu	50289	185.199.109.154	https	ESTABLISHED										
+chrome.exe	5444	TCP	desktop-3sguno9.ksd.edu	50295	172.253.117.188	5228	ESTABLISHED										
+chrome.exe	5444	TCP	desktop-3sguno9.ksd.edu	50491	64.4.54.254	https	ESTABLISHED										
+chrome.exe	5444	TCP	desktop-3sguno9.ksd.edu	50516	lb-192-30-255-113-sea.github.com	https	CLOSE_WAIT			1	24						
+chrome.exe	5444	TCP	desktop-3sguno9.ksd.edu	50517	ec2-34-193-127-114.compute-1.amazonaws.com	https	CLOSE_WAIT			1	31						
+chrome.exe	5444	TCP	desktop-3sguno9.ksd.edu	50518	lb-192-30-255-116-sea.github.com	https	CLOSE_WAIT			1	24						
+chrome.exe	5444	TCP	desktop-3sguno9.ksd.edu	50520	151.101.52.133	https	ESTABLISHED										
+chrome.exe	5444	TCP	desktop-3sguno9.ksd.edu	50521	151.101.52.133	https	ESTABLISHED										
+chrome.exe	5444	TCP	desktop-3sguno9.ksd.edu	50522	151.101.52.133	https	ESTABLISHED										
+chrome.exe	5444	TCP	desktop-3sguno9.ksd.edu	50530	lb-192-30-255-113-sea.github.com	https	CLOSE_WAIT			1	24						
+chrome.exe	5444	TCP	desktop-3sguno9.ksd.edu	50532	lb-140-82-114-25-iad.github.com	https	ESTABLISHED										
+chrome.exe	5444	TCP	desktop-3sguno9.ksd.edu	50535	a23-222-149-237.deploy.static.akamaitechnologies.com	https	ESTABLISHED										
+chrome.exe	5444	TCP	desktop-3sguno9.ksd.edu	50536	a23-222-149-237.deploy.static.akamaitechnologies.com	https	ESTABLISHED										
+chrome.exe	5444	TCP	desktop-3sguno9.ksd.edu	50538	a23-222-149-237.deploy.static.akamaitechnologies.com	https	ESTABLISHED										
+chrome.exe	5444	TCP	desktop-3sguno9.ksd.edu	50539	151.101.52.133	https	ESTABLISHED										
+chrome.exe	5444	TCP	desktop-3sguno9.ksd.edu	50540	ie-in-f156.1e100.net	https	ESTABLISHED										
+chrome.exe	5444	TCP	desktop-3sguno9.ksd.edu	50541	40.81.45.29	https	ESTABLISHED										
+chrome.exe	5444	TCP	desktop-3sguno9.ksd.edu	50544	lb-140-82-114-25-iad.github.com	https	ESTABLISHED	1	28	1	24						
+chrome.exe	5444	TCP	desktop-3sguno9.ksd.edu	50546	64.4.54.254	https	ESTABLISHED	1	2,795	1	436						
+chrome.exe	5444	TCP	desktop-3sguno9.ksd.edu	50547	152.199.4.33	https	ESTABLISHED										
+chrome.exe	6328	UDP	DESKTOP-3SGUNO9	5353	*	*											
+chrome.exe	6328	UDP	DESKTOP-3SGUNO9	5353	*	*											
+chrome.exe	6328	UDPV6	desktop-3sguno9	5353	*	*											
+lsass.exe	648	TCP	DESKTOP-3SGUNO9	49664	DESKTOP-3SGUNO9	0	LISTENING										
+lsass.exe	648	TCPV6	desktop-3sguno9	49664	desktop-3sguno9	0	LISTENING										
+MsMpEng.exe	2560	TCP	desktop-3sguno9.ksd.edu	50549	40.121.3.131	https	ESTABLISHED										
+services.exe	608	TCP	DESKTOP-3SGUNO9	49672	DESKTOP-3SGUNO9	0	LISTENING										
+services.exe	608	TCPV6	desktop-3sguno9	49672	desktop-3sguno9	0	LISTENING										
+SkypeApp.exe	1096	UDP	DESKTOP-3SGUNO9	59973	*	*											
+SkypeApp.exe	1096	UDPV6	desktop-3sguno9	59973	*	*											
+spoolsv.exe	2084	TCP	DESKTOP-3SGUNO9	49668	DESKTOP-3SGUNO9	0	LISTENING										
+spoolsv.exe	2084	TCPV6	desktop-3sguno9	49668	desktop-3sguno9	0	LISTENING										
+svchost.exe	896	TCP	DESKTOP-3SGUNO9	epmap	DESKTOP-3SGUNO9	0	LISTENING										
+svchost.exe	2032	TCP	DESKTOP-3SGUNO9	5040	DESKTOP-3SGUNO9	0	LISTENING										
+svchost.exe	1080	TCP	DESKTOP-3SGUNO9	49666	DESKTOP-3SGUNO9	0	LISTENING										
+svchost.exe	1528	TCP	DESKTOP-3SGUNO9	49667	DESKTOP-3SGUNO9	0	LISTENING										
+svchost.exe	2544	TCP	desktop-3sguno9.ksd.edu	49740	52.230.222.68	https	ESTABLISHED										
+svchost.exe	5340	TCP	DESKTOP-3SGUNO9	ms-do	DESKTOP-3SGUNO9	0	LISTENING										
+svchost.exe	4288	UDP	desktop-3sguno9.ksd.edu	ssdp	*	*											
+svchost.exe	4288	UDP	DESKTOP-3SGUNO9	ssdp	*	*											
+svchost.exe	2032	UDP	DESKTOP-3SGUNO9	5050	*	*											
+svchost.exe	1512	UDP	DESKTOP-3SGUNO9	5353	*	*											
+svchost.exe	1512	UDP	DESKTOP-3SGUNO9	llmnr	*	*											
+svchost.exe	4288	UDP	desktop-3sguno9.ksd.edu	51058	*	*											
+svchost.exe	4288	UDP	DESKTOP-3SGUNO9	51059	*	*											
+svchost.exe	2632	UDP	DESKTOP-3SGUNO9	52538	*	*											
+svchost.exe	1412	UDP	DESKTOP-3SGUNO9	53795	*	*											
+svchost.exe	896	TCPV6	desktop-3sguno9	epmap	desktop-3sguno9	0	LISTENING										
+svchost.exe	5340	TCPV6	desktop-3sguno9	ms-do	desktop-3sguno9	0	LISTENING										
+svchost.exe	1080	TCPV6	desktop-3sguno9	49666	desktop-3sguno9	0	LISTENING										
+svchost.exe	1528	TCPV6	desktop-3sguno9	49667	desktop-3sguno9	0	LISTENING										
+svchost.exe	4288	UDPV6	[0:0:0:0:0:0:0:1]	1900	*	*											
+svchost.exe	4288	UDPV6	[fe80:0:0:0:85a5:4d62:128e:76e7]	1900	*	*											
+svchost.exe	1512	UDPV6	desktop-3sguno9	5353	*	*											
+svchost.exe	1512	UDPV6	desktop-3sguno9	5355	*	*											
+svchost.exe	4288	UDPV6	[fe80:0:0:0:85a5:4d62:128e:76e7]	51056	*	*											
+svchost.exe	4288	UDPV6	[0:0:0:0:0:0:0:1]	51057	*	*											
+System	4	TCP	desktop-3sguno9.ksd.edu	netbios-ssn	DESKTOP-3SGUNO9	0	LISTENING										
+System	4	TCP	DESKTOP-3SGUNO9	microsoft-ds	DESKTOP-3SGUNO9	0	LISTENING										
+System	4	UDP	desktop-3sguno9.ksd.edu	netbios-ns	*	*				3	150						
+System	4	UDP	desktop-3sguno9.ksd.edu	netbios-dgm	*	*											
+System	4	TCPV6	desktop-3sguno9	microsoft-ds	desktop-3sguno9	0	LISTENING										
+wininit.exe	496	TCP	DESKTOP-3SGUNO9	49665	DESKTOP-3SGUNO9	0	LISTENING										
+wininit.exe	496	TCPV6	desktop-3sguno9	49665	desktop-3sguno9	0	LISTENING										
